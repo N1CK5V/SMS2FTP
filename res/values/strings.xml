@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS2FTP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_configuration">Configuration</string>
+    <string name="username">Username</string>
+    <string name="pwd">Password</string>
+    <string name="address">FTP Host</string>
+    <string name="ok">Start</string>
+
+</resources>
